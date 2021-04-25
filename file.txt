@@ -1,3 +1,9 @@
+
 Welcome to Continues integration!
 
 
+welcome to git
+
+
+welcome to branches
+welcome to tagging
